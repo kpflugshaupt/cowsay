@@ -10,8 +10,9 @@ Pushed to Docker Hub, will rebuild automatically on commit:
 https://cloud.docker.com/u/kpflugshaupt/repository/docker/kpflugshaupt/cowsay
 
 ## Built like this:
-docker build -t kpflugshaupt/cowsay .
-docker push kpflugshaupt/cowsay
+
+    docker build -t kpflugshaupt/cowsay .
+    docker push kpflugshaupt/cowsay
 
 ## Use like this:
 
