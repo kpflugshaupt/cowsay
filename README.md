@@ -14,6 +14,7 @@ docker build -t kpflugshaupt/cowsay .
 docker push kpflugshaupt/cowsay
 
 ##Use like this:
+
     docker run --rm kpflugshaupt/cowsay
      _________________________________
     / You will engage in a profitable \
